@@ -11,7 +11,7 @@ First I framed it out using HTML Making the search bar and the city name in the 
 Site is unfinished
 
 # credits
-U penn, W3 schools, Openweathermap, google
+U penn, U Penn office hours, W3 schools, Openweathermap, google, youtube,
 
 # license
 open for use
