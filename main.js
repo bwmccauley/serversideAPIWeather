@@ -5,7 +5,7 @@ function getInfo(){
 
 
 
-// create a forLoop for the weather on the days
+// create a forLoops for the weather on the days
 fetch("https://api.openweathermap.org/data/3.0/onecall?lat={44.31t}&lon={83.04}&exclude=&appid={f7170118c6f5c729fe08831daba425f2}")
 .then(response => response.json())
 .then(data=>{
